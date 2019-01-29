@@ -1,9 +1,9 @@
 # web3Transfer
 
-#How to run
+#How to run 
 
-git clone ...
+Step 1 git clone ...
 
-npm i
+Step 2 npm i
 
-node watch
+Step 3 node watch
